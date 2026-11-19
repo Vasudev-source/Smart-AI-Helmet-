@@ -7,8 +7,8 @@ An intelligent safety helmet that combines **Artificial Intelligence, IoT and em
 ![IoT](https://img.shields.io/badge/IoT-Blynk%20%7C%20MQTT-green)
 
 <p align="center">
-  <img src="images/prototype-side.png" alt="Smart AI Helmet prototype, side view" height="280">
-  <img src="images/prototype-rear.png" alt="Smart AI Helmet prototype, rear view" height="280">
+  <img src="prototype-side.png" alt="Smart AI Helmet prototype, side view" height="280">
+  <img src="prototype-rear.png" alt="Smart AI Helmet prototype, rear view" height="280">
 </p>
 
 ---
@@ -109,9 +109,9 @@ The system is organised into four layers.
 
 | | | |
 |:---:|:---:|:---:|
-| <img src="images/microcontroller.png" width="200"><br>**Microcontroller board** | <img src="images/esp32-cam.png" width="200"><br>**ESP32-CAM** | <img src="images/mpu6050.png" width="200"><br>**MPU6050** |
-| <img src="images/mq3-alcohol-sensor.png" width="200"><br>**MQ-3 alcohol sensor** | <img src="images/ir-sensor.png" width="200"><br>**IR sensor** | <img src="images/gps-neo6m.png" width="200"><br>**NEO-6M GPS** |
-| <img src="images/sim800-gsm.png" width="200"><br>**SIM800 GSM module** | <img src="images/voice-assistant-module.png" width="200"><br>**Voice assistant module** | <img src="images/power-bank-module.png" width="200"><br>**3-port USB power bank module** |
+| <img src="microcontroller.png" width="200"><br>**Microcontroller board** | <img src="images/esp32-cam.png" width="200"><br>**ESP32-CAM** | <img src="images/mpu6050.png" width="200"><br>**MPU6050** |
+| <img src="mq3-alcohol-sensor.png" width="200"><br>**MQ-3 alcohol sensor** | <img src="images/ir-sensor.png" width="200"><br>**IR sensor** | <img src="images/gps-neo6m.png" width="200"><br>**NEO-6M GPS** |
+| <img src="sim800-gsm.png" width="200"><br>**SIM800 GSM module** | <img src="images/voice-assistant-module.png" width="200"><br>**Voice assistant module** | <img src="images/power-bank-module.png" width="200"><br>**3-port USB power bank module** |
 
 ---
 
@@ -216,12 +216,12 @@ http://maps.google.com/?q=<latitude>,<longitude>
 ```
 
 <p align="center">
-  <img src="images/sms-alert.png" alt="Emergency SMS with Google Maps location" height="480">
+  <img src="sms-alert.png" alt="Emergency SMS with Google Maps location" height="480">
 </p>
 
 The Blynk dashboard also shows live eye state, strap status, alcohol level, overall status (e.g., `ACCIDENT!`) and the location link.
 
-![Blynk dashboard](images/blynk-dashboard.png)
+![Blynk dashboard](blynk-dashboard.png)
 *Blynk console showing eyes, strap, status, alcohol level and location.*
 
 ---
