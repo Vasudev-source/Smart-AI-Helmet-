@@ -70,7 +70,7 @@ The system is organised into four layers.
 3. **Communication Layer**: MQTT, HTTP/HTTPS, Bluetooth LE, and GSM for emergency SMS.
 4. **Application Layer**: Blynk mobile app and dashboard.
 
-![System architecture](images/system-architecture.png)
+![image alt](images/system-architecture.png)
 *Fig. 1: System architecture (helmet unit, wireless communication, cloud and user interface).*
 
 ![Block diagram](images/block-diagram.png)
