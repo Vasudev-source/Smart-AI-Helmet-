@@ -73,7 +73,7 @@ The system is organised into four layers.
 ![image alt](system-architecture.png)
 *Fig. 1: System architecture (helmet unit, wireless communication, cloud and user interface).*
 
-![Block diagram](images/block-diagram.png)
+![Block diagram](block-diagram.png)
 *Fig. 2: Block diagram showing how each sensor feeds the cloud, the dashboard and the emergency contacts.*
 
 ### AI & Vision Processing
