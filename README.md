@@ -109,10 +109,9 @@ The system is organised into four layers.
 
 | | | |
 |:---:|:---:|:---:|
-| <img src="microcontroller.png" width="200"><br>**Microcontroller board** | <img src="images/esp32-cam.png" width="200"><br>**ESP32-CAM** | <img src="images/mpu6050.png" width="200"><br>**MPU6050** |
-| <img src="mq3-alcohol-sensor.png" width="200"><br>**MQ-3 alcohol sensor** | <img src="images/ir-sensor.png" width="200"><br>**IR sensor** | <img src="images/gps-neo6m.png" width="200"><br>**NEO-6M GPS** |
-| <img src="sim800-gsm.png" width="200"><br>**SIM800 GSM module** | <img src="images/voice-assistant-module.png" width="200"><br>**Voice assistant module** | <img src="images/power-bank-module.png" width="200"><br>**3-port USB power bank module** |
-| <img src="sim800-gsm.png" width="200"><br>**SIM800 GSM module** | <img src="images/voice-assistant-module.png" width="200"><br>**Voice assistant module** | <img src="images/power-bank-module.png" width="200"><br>**3-port USB power bank module** |
+| <img src="microcontroller.png" width="200"><br>**Microcontroller board** | <img src="esp32-cam.png" width="200"><br>**ESP32-CAM** | <img src="mpu6050.png" width="200"><br>**MPU6050** |
+| <img src="mq3-alcohol-sensor.png" width="200"><br>**MQ-3 alcohol sensor** | <img src="ir-sensor.png" width="200"><br>**IR sensor** | <img src="gps-neo6m.png" width="200"><br>**NEO-6M GPS** |
+| <img src="sim800-gsm.png" width="200"><br>**SIM800 GSM module** | <img src="voice-assistant-module.png" width="200"><br>**Voice assistant module** | <img src="power-bank-module.png" width="200"><br>**3-port USB power bank module** |
 
 ---
 
